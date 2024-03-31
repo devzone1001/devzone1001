@@ -12,6 +12,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-"Estou no começo do curso de Análise e Desenvolvimento de Sistemas, aprendendo as bases para criar soluções inovadoras com tecnologia."
+### "Estou no começo do curso de Análise e Desenvolvimento de Sistemas, aprendendo as bases para criar soluções inovadoras com tecnologia."
 
-Desperte o poder da tecnologia através da programação.
+> Desperte o poder da tecnologia através da programação.
