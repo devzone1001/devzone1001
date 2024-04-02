@@ -1,5 +1,6 @@
 
 ### Olá! Eu sou o Tovar Morais 
+![linha eletrica](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tovar-vitor-morais-da-silva-b7825b205/)
 
