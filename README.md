@@ -22,3 +22,13 @@
 >
 > ## Ouvindo Spotify :headphones:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h2s9ug21hmnd912flw0sghz90&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=h2s9ug21hmnd912flw0sghz90&redirect=true)
+
+> ## Obrigado pela visita ❤️
+
+
+<a href="https://info.flagcounter.com/grBS"><img src="https://s11.flagcounter.com/map/grBS/size_l/txt_000000/border_000000/pageviews_1/viewers_0/flags_1/" alt="Free counters!" border="0"></a>
+
+
+
+
+![assets/Bottom_down.svg](https://github.com/BEPb/BEPb/raw/main/assets/Bottom_down.svg)
