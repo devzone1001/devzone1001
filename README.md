@@ -6,8 +6,9 @@
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@devzone1001)
 
 ![Tovar GitHub stats](https://github-readme-stats.vercel.app/api?username=devzone1001&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devzone1001)](https://github.com/anuraghazra/github-readme-stats)
 [![devzone1001's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devzone1001)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devzone1001)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia
 
