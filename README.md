@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Tovar Morais 
 ![linha eletrica](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tovar-morais-b7825b205)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tovar-morais)
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@devzone1001)
 
 ![Tovar GitHub stats](https://github-readme-stats.vercel.app/api?username=devzone1001&show_icons=true&theme=radical)
